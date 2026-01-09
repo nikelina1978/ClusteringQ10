@@ -1,2 +1,2 @@
-# ClusteringQ10
+# Example of README.md
 Example of README.md
